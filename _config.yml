@@ -2,3 +2,6 @@ theme: minima
 title: GitHub page for repository
 description: None
 author: sch-mar
+gems: ["jemoji"]
+plugins:
+  - jemoji
